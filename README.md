@@ -53,7 +53,7 @@ La estructura y lógica del modelo se mantienen constantes, variando únicamente
 
 ## 📂 Dataset
 
-Los datos utilizados corresponden a indicadores anuales de popularidad de actores chinos, organizados en hojas independientes dentro de un archivo de Google Sheets.
+Los datos utilizados corresponden a indicadores anuales de popularidad de actores chinos, organizados en hojas independientes dentro de un archivo de Google Sheets. Puede consultar la base de datos en el archivo Popularidad_Actores_2010_2024
 
 **Variables principales:**
 - `Año`
